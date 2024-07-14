@@ -41,5 +41,4 @@ message RegisterRequest {
 }
 
 message RegisterResponse {
-  string token = 1;
 }
